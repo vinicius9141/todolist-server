@@ -10,13 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/vinicius9141/todolist-server.git"
   },
-  "author": "vininicius oliveira",
+  "author": "Vinicius Oliveira",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/vinicius9141/todolist-server/issues"
   },
   "homepage": "https://github.com/vinicius9141/todolist-server#readme",
   "dependencies": {
+    "knex": "^0.95.4",
     "pg": "^8.6.0"
   }
 }
